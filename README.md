@@ -2,7 +2,6 @@
 - 👀 I’m interested in fullstack webdevelopment
 - 🌱 I’m currently learning in github
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me ...
 
 <!---
 iniyan1/iniyan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
